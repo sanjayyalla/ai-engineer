@@ -1,0 +1,2 @@
+A query can be cleaned and vectorized with the same vocabulary as stored documents.
+Using the same preprocessing pipeline keeps query and document vectors comparable.

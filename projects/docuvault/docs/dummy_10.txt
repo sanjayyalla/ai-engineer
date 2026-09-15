@@ -1,0 +1,2 @@
+Search quality depends on useful vocabulary, consistent cleaning, and meaningful document content.
+Adding related terms across documents creates realistic overlap for cosine similarity experiments.

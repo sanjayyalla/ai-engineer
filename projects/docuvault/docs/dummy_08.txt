@@ -1,0 +1,2 @@
+The knowledge base stores vectors in a dictionary keyed by each document identifier.
+Keeping the document and vector maps aligned makes search results easy to trace to source files.

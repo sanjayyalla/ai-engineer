@@ -1,0 +1,2 @@
+Cosine similarity compares document vectors by measuring the angle between them.
+Documents with more shared terms receive a higher similarity score during search.

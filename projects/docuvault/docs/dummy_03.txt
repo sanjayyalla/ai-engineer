@@ -1,0 +1,2 @@
+Text cleaning converts document content to lowercase before vectorization.
+Punctuation is removed so terms such as Search, search, and search. match consistently.

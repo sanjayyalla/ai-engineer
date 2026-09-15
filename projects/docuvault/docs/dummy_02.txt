@@ -1,0 +1,2 @@
+Document ingestion reads every .txt file and stores its content in the knowledge base.
+The file name becomes the document title, while UTF-8 decoding preserves text reliably.

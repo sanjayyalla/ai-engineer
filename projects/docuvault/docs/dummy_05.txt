@@ -1,0 +1,2 @@
+Word frequencies count how often each cleaned term appears in a document.
+A frequency dictionary is converted into a vector using the shared knowledge base vocabulary.

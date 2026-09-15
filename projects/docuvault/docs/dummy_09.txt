@@ -1,0 +1,2 @@
+A document preview can use the title and the first part of its content for display.
+The source path allows an application to open the original text after a search result is selected.

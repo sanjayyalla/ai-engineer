@@ -1,0 +1,2 @@
+DocuVault is a Python document search system that ingests text files from a folder.
+Each document receives an identifier, a title, its content, and an absolute source path.

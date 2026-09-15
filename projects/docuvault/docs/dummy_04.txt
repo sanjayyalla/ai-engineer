@@ -1,0 +1,2 @@
+The vocabulary contains every unique cleaned word found across the document collection.
+Sorting the vocabulary gives each word a stable position in every document vector.
