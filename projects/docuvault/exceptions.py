@@ -1,0 +1,2 @@
+class EmptyKnowledgeBaseError(Exception):
+    pass
